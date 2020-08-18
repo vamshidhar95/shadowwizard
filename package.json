@@ -1,0 +1,22 @@
+{
+  "name": "shadowwizardhar",
+  "version": "1.0.0",
+  "description": "Add some shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamshidhar95/shadowwizard.git"
+  },
+  "keywords": [
+    "Shadows"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamshidhar95/shadowwizard/issues"
+  },
+  "homepage": "https://github.com/vamshidhar95/shadowwizard#readme"
+}

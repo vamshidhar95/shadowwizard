@@ -16,4 +16,4 @@ function shadowwizard(params) {
 
 }
 
-modules.exports.shadowwizard = shadowwizard;
+module.exports.shadowwizard = shadowwizard;
